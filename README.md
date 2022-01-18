@@ -1,5 +1,5 @@
 # netflix-landing-page-preview
-Images of Netflix landing page clone
+Images of Netflix landing page 
 
 ![image](https://user-images.githubusercontent.com/90742975/133369379-f940f05c-fe58-402f-9319-2e74b987fcaf.png)
 ![image](https://user-images.githubusercontent.com/90742975/133369393-1a0beaa5-a254-477a-85ca-442d58cc170b.png)
